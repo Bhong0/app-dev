@@ -18,7 +18,7 @@ Despite this, he dreams of becoming the **Wizard King** and never gives up. With
 - Great friendships and rivalries
 
 ### Learn More:
-[Watch Black Clover]([https://www.example.com](https://en.wikipedia.org/wiki/Black_Clover))
+[Black Clover](https://en.wikipedia.org/wiki/Black_Clover)
 
 ### Image:
 ![Asta from Black Clover](https://upload.wikimedia.org/wikipedia/en/6/69/Black_Clover%2C_volume_1.jpg)
